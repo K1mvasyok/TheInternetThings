@@ -3,7 +3,6 @@ import logging
 
 from aiogram import Bot, Dispatcher
 from config import TOKEN
-import asyncio
 
 
 bot = Bot(token=TOKEN)
